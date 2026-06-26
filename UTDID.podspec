@@ -1,6 +1,6 @@
 
 Pod::Spec.new do |s|
-s.name          = "SZUTDID"
+s.name          = "UTDID"
 s.version       = "1.0.0"
 s.summary       = "UTDID"
 s.description   = <<-DESC
